@@ -57,7 +57,7 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/EmilianoBruni/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<img src="https://raw.githubusercontent.com/EmilianoBruni/EmilianoBruni/main/github-metrics.svg" alt="Metrics"> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/EmilianoBruni/EmilianoBruni/main/github-metrics.svg" alt="Metrics"></a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
